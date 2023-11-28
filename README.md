@@ -7,6 +7,8 @@ The WeatherApp is still under development and may contain bugs.
 The WeatherApp may not be compatible with all devices.
 Where to Get It
 
+Launch weatherapp from >dist>main.exe
+
 The WeatherApp is available for download on GitHub: https://github.com/Zapper9200/Weather
 
 How to Install
